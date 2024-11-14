@@ -109,9 +109,9 @@ public class Dungeon {
         return -1;  
     }
 
-    public static void main(String[] args) {
+  /*  public static void main(String[] args) {
         Dungeon dungeon = Dungeon.getDungeonInstance();
         dungeon.start();
-    }
+    }*/
 }
 
